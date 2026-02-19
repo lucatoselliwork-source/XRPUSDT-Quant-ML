@@ -1,0 +1,8 @@
+numpy
+polars
+matplotlib
+altair
+torch
+tqdm
+requests
+python-dateutil
